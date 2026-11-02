@@ -1,0 +1,6 @@
+{
+  "name": "Organizador Inteligente de Drive",
+  "description": "Organiza y clasifica automáticamente tus archivos de Google Drive con sugerencias de nombres y categorías mediante Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

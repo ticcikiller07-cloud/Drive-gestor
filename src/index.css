@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+button:disabled {
+  text-shadow: none !important;
+}
